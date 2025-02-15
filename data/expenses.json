@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "category": "Food",
+    "price": 250,
+    "description": "Lunch at restaurant"
+  },
+  {
+    "id": 2,
+    "category": "Transport",
+    "price": 120,
+    "description": "Uber ride to office"
+  },
+  {
+    "id": 3,
+    "category": "Shopping",
+    "price": 2000,
+    "description": "Bought a pair of shoes"
+  },
+  {
+    "id": 4,
+    "category": "Entertainment",
+    "price": 500,
+    "description": "Movie ticket"
+  },
+  {
+    "id": 5,
+    "category": "Bills",
+    "price": 1500,
+    "description": "Electricity bill"
+  },
+  {
+    "id": 6,
+    "category": "Food",
+    "price": 100,
+    "description": "Coffee and snacks"
+  },
+  {
+    "id": 7,
+    "category": "Transport",
+    "price": 80,
+    "description": "Metro ticket"
+  },
+  {
+    "id": 8,
+    "category": "Shopping",
+    "price": 3000,
+    "description": "New jacket"
+  },
+  {
+    "id": 9,
+    "category": "Entertainment",
+    "price": 700,
+    "description": "Concert ticket"
+  },
+  { "id": 10, "category": "Bills", "price": 1200, "description": "Water bill" },
+  {
+    "id": 11,
+    "category": "Food",
+    "price": 500,
+    "description": "Dinner at a restaurant"
+  },
+  { "id": 12, "category": "Transport", "price": 90, "description": "Bus fare" },
+  {
+    "id": 13,
+    "category": "Shopping",
+    "price": 1500,
+    "description": "T-shirt and jeans"
+  },
+  {
+    "id": 14,
+    "category": "Entertainment",
+    "price": 300,
+    "description": "Subscription renewal"
+  },
+  {
+    "id": 15,
+    "category": "Bills",
+    "price": 800,
+    "description": "Internet bill"
+  },
+  {
+    "id": 16,
+    "category": "Food",
+    "price": 350,
+    "description": "Breakfast at a cafe"
+  },
+  { "id": 17, "category": "Transport", "price": 60, "description": "Cab fare" },
+  {
+    "id": 18,
+    "category": "Shopping",
+    "price": 5000,
+    "description": "Smartphone accessories"
+  },
+  {
+    "id": 19,
+    "category": "Entertainment",
+    "price": 450,
+    "description": "Theme park ticket"
+  },
+  {
+    "id": 20,
+    "category": "Bills",
+    "price": 2000,
+    "description": "Rent payment"
+  }
+]

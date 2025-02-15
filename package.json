@@ -1,0 +1,23 @@
+{
+  "name": "cli-expense-tracker",
+  "version": "1.0.0",
+  "bin": {
+  "expense": "./expensemanager.js"
+  },
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "add":"node expensemanager add",
+    "list":"node expensemanager list",
+    "delete":"node expensemanager delete",
+    "total":"node expensemanager total",
+    "report":"node expensemanager report"    
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.4.1"
+  }
+}
